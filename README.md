@@ -234,3 +234,6 @@ This repository serves as the official landing page for Translator For Microsoft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Translator For Microsoft Edge today!**
+
+---
+**Last updated:** 2026-09-08 14:50:40 UTC
